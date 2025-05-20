@@ -64,21 +64,20 @@ Desenvolvedores:
 
 ## 4 - Eco Bot
 
-![Algoritmos](https://via.placeholder.com/400x200?text=Algoritmos+Básicos)
+![Algoritmos](https://github.com/marianaabandeira/chatExpo-TADS047/blob/main/img/chatbot.jpeg?raw=true)
 
-**Quem sou eu:**
+**Quem sou eu: Olá! Eu sou o Ecoboat, seu assistente virtual dedicado a tornar sua vida mais prática, inteligente e sustentável. Estou aqui para ajudar você com informações confiáveis, organização de tarefas e sugestões que respeitam o meio ambiente. Juntos, podemos transformar pequenas escolhas em grandes impactos positivos para o planeta. Vamos começar essa jornada consciente? Posso te ajudar de forma rápida e ecológica. **
 
-🔗 [Pode me acessar aqui](https://exemplo.com/atividade1)
+🔗 [Pode me acessar aqui](https://colab.research.google.com/drive/1Hf4tojinNgEbytKwcw34gtuvFse0ckw4?usp=sharing)
 
-🔗 [Veja o meu processo de criação](https://exemplo.com/atividade1)
+🔗 [Veja o meu processo de criação](https://miro.com/welcomeonboard/MGdVZlBsQkVZSk5iZnZrcHh0VlByWXpxSFdqZVdLR2tWRVJQUXpaME1oYTB0blU3UXNvOGRVMStYcENHa0FHemVLQzJYTUpJVEJFQzEwb3JNN1UwM3BkWkNYWHdtdkZMZFJDdGlURHRabHZWT1gvN3E3Y2pLRlBRSUd3UzRud0p3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=342118609135)
 
 Desenvolvedores:
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+- [Mariana Bandeira](https://github.com/marianaabandeira)
+- [Laís Nayara](https://github.com/LNayaraSilva)
+- [Wendel Brasiliano](https://www.linkedin.com/in/wendel-brasiliano-9b3449356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Gabriel Moura](https://github.com/TheGabriel01)
+
 
 ## 5 - EcoMind
 
